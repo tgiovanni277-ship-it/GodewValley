@@ -6,9 +6,7 @@ Videojuego 2D de simulación agrícola desarrollado en **Godot Engine 4** con **
 ![GDScript](https://img.shields.io/badge/GDScript-lenguaje-355570)
 ![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
 
-<p align="center">
-  <img src="ruta/a/tu/screenshot.png" alt="Gameplay Granja Cafetera" width="700">
-</p>
+
 
 ## 📋 Descripción
 
