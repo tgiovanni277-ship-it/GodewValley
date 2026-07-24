@@ -1,0 +1,4 @@
+# Godot 4 - archivos autogenerados, no subir a git
+.godot/
+*.tmp
+export_presets.cfg

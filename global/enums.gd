@@ -1,0 +1,13 @@
+extends Node
+# ─────────────────────────────────────────────
+#  ENUMS — VERSIÓN ACTUALIZADA
+#  Cambios: +COFFEE en Seed, +COFFEE en Item
+# ─────────────────────────────────────────────
+
+enum Style   { BASIC, COWBOY, ENGLISH, BASEBALL, BEANIE, STRAW, CAP }
+enum State   { DEFAULT, FISHING, BUILDING, SHOP }
+enum Tool    { AXE, HOE, SWORD, WATER, FISH, SEED }
+enum Machine { SPRINKLER, FISHER, SCARECROW, DELETE }
+enum Seed    { TOMATO, CORN, PUMPKIN, WHEAT, COFFEE }           # ← +COFFEE
+enum Item    { WOOD, APPLE, TOMATO, CORN, WHEAT, PUMPKIN, FISH, COFFEE }  # ← +COFFEE
+enum Shop    { MAIN, HAT }
