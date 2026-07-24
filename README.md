@@ -113,7 +113,7 @@ El panel superior informa el estado del tile bajo el jugador en tiempo real:
 
 ## 📖 Documentación Técnica
 
-Este repositorio incluye documentación técnica completa del proyecto (arquitectura de scripts, sistema de señales, lógica de movimiento y mecánicas) en [`docs/Granja_Cafetera_Informe.pdf`](docs/Granja_Cafetera_Informe.pdf).
+Este repositorio incluye documentación técnica completa del proyecto (arquitectura de scripts, sistema de señales, lógica de movimiento y mecánicas) 
 
 ## 👤 Autor
 
